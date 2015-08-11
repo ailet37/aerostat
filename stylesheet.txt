@@ -1,0 +1,83 @@
+.icon {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.icon-advantages_icon1 {
+    width: 56px;
+    height: 58px;
+    background-position: -5px -5px;
+}
+
+.icon-advantages_icon2 {
+    width: 75px;
+    height: 28px;
+    background-position: -71px -5px;
+}
+
+.icon-advantages_icon3 {
+    width: 65px;
+    height: 50px;
+    background-position: -71px -43px;
+}
+
+.icon-advantages_icon4 {
+    width: 72px;
+    height: 34px;
+    background-position: -5px -103px;
+}
+
+.icon-baloon {
+    width: 44px;
+    height: 65px;
+    background-position: -156px -5px;
+}
+
+.icon-icon_arrow_down {
+    width: 18px;
+    height: 29px;
+    background-position: -146px -80px;
+}
+
+.icon-icon_arrow_video {
+    width: 92px;
+    height: 106px;
+    background-position: -210px -5px;
+}
+
+.icon-icon_fc {
+    width: 22px;
+    height: 23px;
+    background-position: -87px -121px;
+}
+
+.icon-icon_insta {
+    width: 22px;
+    height: 23px;
+    background-position: -119px -121px;
+}
+
+.icon-icon_mail {
+    width: 23px;
+    height: 17px;
+    background-position: -151px -121px;
+}
+
+.icon-icon_map-point {
+    width: 35px;
+    height: 50px;
+    background-position: -184px -121px;
+}
+
+.icon-icon_plain {
+    width: 41px;
+    height: 40px;
+    background-position: -229px -121px;
+}
+
+.icon-icon_vk {
+    width: 22px;
+    height: 23px;
+    background-position: -280px -121px;
+}
